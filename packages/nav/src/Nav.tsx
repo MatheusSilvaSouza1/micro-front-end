@@ -1,4 +1,3 @@
-import React from "react";
 import * as singleSpa from "single-spa";
 
 function Nav() {
